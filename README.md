@@ -1,6 +1,3 @@
-## Link to the presentation video ##
-## https://share.vidyard.com/watch/3JXDN6E5D2hSm73z7BJEPB? ##
-
 # Project EDA
 ## Project Speed Dating
 ### Description 
